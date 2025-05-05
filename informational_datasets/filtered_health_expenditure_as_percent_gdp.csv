@@ -1,0 +1,985 @@
+code,country,frequency_of_observation,measure,unit_of_measure,financing_scheme,financing_scheme_rev,health_function,mode_of_provision,provider,health_care_provider,year,health_expenditure_as_percent_gdp
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.098
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,3.246
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,3.504
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.608
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,3.62
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,3.749
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,3.375
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,3.594
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,3.625
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,3.628
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,3.749
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,16.14
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,16.197
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,4.742
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,4.57
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,4.309
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,4.194
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,4.339
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,3.886
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,3.68
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,3.95
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,5.047
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,4.977
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,4.961
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,4.409
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.369
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.235
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,3.91
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,4.081
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,2.904
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,2.86
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.373
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,3.596
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,4.134
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.488
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.239
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.035
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.659
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.75
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.729
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.674
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.672
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.063
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.959
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.089
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.97
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.74
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.656
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.535
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.487
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.352
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.957
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.185
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,4.974
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.295
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.781
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.164
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.702
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.641
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.362
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.281
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.095
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.078
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.594
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.845
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.772
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.691
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.597
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,5.338
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.139
+EST,Estonia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.703
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,4.184
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,4.281
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,5.373
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,5.148
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,2.936
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,3.329
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,5.135
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.28
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.961
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.76
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.381
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,1.842
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,2.964
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,2.869
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,2.914
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,2.604
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,2.517
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,2.107
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,2.905
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,2.868
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,3.021
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,2.924
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,2.235
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,1.969
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,2.106
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,2.904
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,2.989
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,2.791
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,2.623
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,2.548
+IDN,Indonesia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,2.807
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.547
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,9.395
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,9.269
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.709
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.199
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.026
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.221
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.226
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.726
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.532
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.531
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.627
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.349
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.384
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.488
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,9.204
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.352
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.368
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.368
+AUT,Austria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.286
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.469
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.536
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.956
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.589
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,5.509
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.332
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.303
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.973
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.762
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.884
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.495
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.299
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.177
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.851
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.92
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.666
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.948
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.666
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.757
+SVK,Slovak Republic,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.448
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.828
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.695
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.902
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.708
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.019
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,6.608
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.121
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.038
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.051
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.96
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.96
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.823
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.872
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.901
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.225
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.258
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.196
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.804
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.855
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.396
+IND,India,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,4.161
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.687
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.658
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.431
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,9.88
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,9.46
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,9.134
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,11.229
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.005
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.142
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.532
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.417
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.58
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,10.058
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,11.426
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,11.199
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,11.413
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,10.137
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,10.226
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,11.004
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.7
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.615
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.348
+CHE,Switzerland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.119
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.169
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.092
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.52
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.552
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.195
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.944
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.118
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.817
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.814
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.61
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.498
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.018
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.417
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.346
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.442
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.784
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.546
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,5.992
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.725
+UKR,Ukraine,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.307
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.589
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.745
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.669
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.563
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.419
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.542
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.965
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.872
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.674
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.247
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.052
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.972
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.083
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.877
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.65
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.801
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.769
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,6.799
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.949
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,9.124
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.087
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.066
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.156
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.168
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.119
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.108
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.382
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.919
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.829
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.74
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.09
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.174
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.825
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.052
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.112
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.534
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.135
+AUS,Australia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.213
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.999
+ESP,Spain,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.947
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,5.465
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,5.294
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,5.952
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.925
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,5.071
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,5.081
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,5.23
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,4.487
+CHN,China (People’s Republic of),Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,4.8
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.231
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.662
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.158
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.638
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.125
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,5.28
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.317
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.21
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.862
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.938
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.23
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.077
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.337
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.871
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.103
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.004
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.944
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.794
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.649
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.148
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.905
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.877
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.977
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.08
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.053
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.041
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.678
+ZAF,South Africa,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.123
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,11.226
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,10.083
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,11.396
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,10.386
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,10.316
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,10.215
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,10.022
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,9.706
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,9.584
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,11.49
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,11.44
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,11.525
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,11.297
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,11.185
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,11.099
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,11.21
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,11.371
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,10.164
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,11.288
+FRA,France,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,10.501
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.476
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.02
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.799
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.82
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.15
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,9.091
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.91
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.25
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.208
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.097
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.0
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.558
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.351
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.842
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.31
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.624
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.858
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.74
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.213
+CHL,Chile,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.072
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.895
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.393
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.372
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.22
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.418
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.445
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.456
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.183
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.835
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.64
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.611
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.534
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.442
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.229
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.355
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.002
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.229
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.671
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.781
+ARG,Argentina,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.827
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.928
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.536
+ISR,Israel,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.923
+JPN,Japan,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.779
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.469
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.022
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.323
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.437
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.406
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.066
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.826
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.622
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.653
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.931
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.653
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.601
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.628
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.394
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,9.316
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.343
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.405
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.654
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.731
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.033
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.131
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.583
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.514
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.413
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,9.306
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.533
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.124
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.786
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,5.868
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.954
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.468
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.067
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.48
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.265
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.287
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.588
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.376
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.873
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.803
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.807
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.313
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.583
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.46
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.667
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.288
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.571
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.404
+POL,Poland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.319
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.017
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.882
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.299
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.01
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.703
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.53
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.07
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.283
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.874
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.722
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.735
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.858
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.033
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.915
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.438
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.96
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.23
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.796
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.194
+NOR,Norway,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.983
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.244
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,9.283
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.402
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.072
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.329
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.638
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.273
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.36
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.652
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.52
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.593
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.621
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.038
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.97
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.901
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.722
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.9
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.579
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.47
+NZL,New Zealand,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.124
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.996
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.052
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,5.236
+LUX,Luxembourg,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.95
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.9
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.327
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.852
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.804
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.948
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.905
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.735
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.32
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.77
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.208
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.832
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.941
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.785
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.13
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,10.251
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,10.051
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,10.18
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,10.312
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,9.921
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,9.888
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,11.242
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,11.19
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,11.026
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.999
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.853
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.778
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,11.096
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,11.238
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,11.716
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,11.473
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,11.326
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,10.146
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,10.402
+DEU,Germany,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,10.184
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.017
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.746
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.781
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.071
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.311
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.842
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.491
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.336
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.067
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.942
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.635
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.531
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.523
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.186
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.78
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.625
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.679
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,5.799
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.775
+COL,Colombia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,5.733
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.996
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.935
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.664
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.286
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,6.565
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.315
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.592
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.662
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.679
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.782
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.112
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.029
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.86
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.469
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.221
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.045
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.63
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.969
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.869
+CRI,Costa Rica,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.474
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.204
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.778
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.985
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.121
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,6.778
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.988
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.854
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.047
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.234
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.411
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.481
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.449
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.222
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.088
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.282
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.58
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.744
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.501
+CYP,Cyprus,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.794
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.826
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,5.028
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,4.475
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,5.224
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,4.509
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,5.278
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.023
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.023
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.071
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.528
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,5.714
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,5.518
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,5.189
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,5.08
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,4.943
+ROU,Romania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,5.64
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.252
+PRT,Portugal,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.354
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,4.415
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,4.964
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,4.749
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,4.735
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,4.535
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,4.715
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,4.965
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,4.533
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,4.426
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,4.41
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,4.881
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,4.96
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,4.961
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,4.587
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.939
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.722
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.339
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.682
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.678
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.784
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.725
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.857
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,8.868
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.775
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.774
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.916
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.952
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.533
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.136
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.437
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.656
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.165
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.833
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.867
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.738
+ITA,Italy,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.567
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.4
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.162
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.161
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,4.839
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.321
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,3.855
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.893
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.724
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.502
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.311
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.178
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.124
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.026
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,5.898
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.127
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.463
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.048
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,4.605
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,4.634
+KOR,Korea,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.052
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.04
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.757
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.545
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.394
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.452
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.157
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.765
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,9.836
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.903
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.978
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.892
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.796
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.789
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.848
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.954
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.738
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,9.6
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.151
+SWE,Sweden,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.416
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.878
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.398
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.259
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.565
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.449
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.243
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.449
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.22
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.891
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.438
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.924
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.193
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.597
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.407
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.828
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.198
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.12
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.135
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.094
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.234
+GRC,Greece,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.988
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.446
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,4.83
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.582
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,4.244
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,5.385
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,5.527
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,5.353
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,5.577
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,5.421
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,5.301
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,5.49
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,5.297
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.406
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.581
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,5.238
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,5.312
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,5.684
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.22
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.008
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.673
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.599
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.287
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.622
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.524
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.523
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.126
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.808
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.516
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.642
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.859
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.107
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.716
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.392
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.899
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.482
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.321
+IRL,Ireland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.495
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,7.996
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.876
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.804
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,8.502
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.478
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.517
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.74
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.715
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.536
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.565
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.541
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.855
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.511
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,7.823
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.111
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.057
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.649
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.059
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.707
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.294
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.324
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.567
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.584
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.539
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.234
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.155
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.993
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.277
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.053
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.081
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.097
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.277
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.758
+HUN,Hungary,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.121
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.099
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.021
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.14
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.491
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.02
+NLD,Netherlands,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.108
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,6.596
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.283
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,6.157
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.525
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.89
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.092
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.332
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.496
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.46
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.394
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.683
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.142
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.539
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.095
+BGR,Bulgaria,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.103
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,4.666
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,4.43
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,5.179
+PER,Peru,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,5.16
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.71
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.675
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.596
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.479
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.902
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.412
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.839
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.971
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.787
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.218
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.238
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.146
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,4.894
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,4.888
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,4.6
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,4.285
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,4.117
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,4.325
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,4.371
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,4.444
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,4.653
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,5.021
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,5.494
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,4.36
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,4.121
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,4.18
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,4.91
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.014
+TUR,Türkiye,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,5.062
+MLT,Malta,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.551
+MLT,Malta,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.731
+MLT,Malta,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.966
+MLT,Malta,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.148
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.169
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.091
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.904
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.591
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.104
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.237
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.328
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.292
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.31
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.506
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.388
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.674
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.511
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.325
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.152
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.098
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.098
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.007
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.703
+DNK,Denmark,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.448
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.429
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.325
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.035
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,11.059
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.248
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,11.061
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.769
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,10.285
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.44
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.545
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.408
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.704
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.339
+GBR,United Kingdom,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.078
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.943
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.934
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.066
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.011
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.857
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.625
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.059
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,7.938
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,7.628
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,9.645
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,9.586
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,9.223
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,9.142
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,9.161
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.343
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.084
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.284
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.288
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.043
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,9.127
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.171
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,7.251
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.093
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.378
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,9.781
+FIN,Finland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,9.805
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,5.848
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.507
+MEX,Mexico,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.54
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,5.585
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.512
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.704
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.832
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.637
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.189
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,5.965
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.202
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.133
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,5.652
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,6.164
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,6.341
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.701
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.524
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,7.393
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,7.335
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,7.595
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.495
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.594
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.534
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.553
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.249
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.33
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.986
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,7.613
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,7.46
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,7.339
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,6.351
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.177
+CZE,Czechia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.863
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,6.013
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,6.2
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,5.511
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,5.844
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.815
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,7.366
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,6.294
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,5.764
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,5.648
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.53
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.464
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,6.984
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,6.186
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,6.144
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,6.638
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,6.49
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,6.193
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,6.126
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,6.276
+LTU,Lithuania,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,6.488
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,10.361
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,10.2
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.164
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,10.76
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,9.134
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,9.128
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,9.222
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,10.861
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,7.999
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,10.793
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,10.797
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.185
+SVN,Slovenia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,7.94
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,10.503
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,10.801
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.328
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.318
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.15
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.319
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.593
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.557
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.947
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.899
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,9.729
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,8.156
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.131
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,8.29
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,8.227
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,8.231
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,8.255
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,8.362
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.775
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.344
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.354
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,8.64
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,8.438
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,8.324
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,9.329
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,9.404
+ISL,Iceland,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.753
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.064
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,7.632
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,7.387
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.448
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,6.734
+HRV,Croatia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,6.643
+BEL,Belgium,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,10.575
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,15.207
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,14.918
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,14.709
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,14.579
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,14.506
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,13.995
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,13.168
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,16.401
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,16.141
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,15.951
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,16.12
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,10.7
+CAN,Canada,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,9.588
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,16.201
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,16.553
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,12.49
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,16.693
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,16.516
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,16.638
+USA,United States,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,14.551
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2005,8.035
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2004,8.125
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2019,9.614
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2018,9.465
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,8.335
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,8.396
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,7.977
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,7.736
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,7.788
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,7.945
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2009,8.395
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2008,8.011
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2007,8.202
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2006,8.25
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2017,9.471
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2016,9.169
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2015,8.909
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,8.189
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,8.697
+BRA,Brazil,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,8.55
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2003,5.479
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2002,5.763
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2001,5.77
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2000,5.433
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2014,5.463
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2013,5.409
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2012,5.41
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2011,5.724
+LVA,Latvia,Annual,Expenditure,Percentage of GDP,Total,_Z,Total,Total,_T,Total,2010,6.097
